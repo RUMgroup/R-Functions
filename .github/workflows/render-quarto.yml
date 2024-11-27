@@ -16,9 +16,6 @@ jobs:
     - name: Set up Quarto
       uses: quarto-dev/quarto-actions/setup@v2
 
-    - name: Install include-code-files extension
-      run: quarto add quarto-ext/include-code-files
-
     - name: Render Quarto document
       run: quarto render
 
