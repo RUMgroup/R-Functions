@@ -20,10 +20,11 @@ jobs:
       run: quarto add quarto-ext/include-code-files
 
     - name: Render Quarto document
-      run: quarto render functions.qmd --output-dir ./docs
+      run: quarto render
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs
+        publish_branch: gh-pages
