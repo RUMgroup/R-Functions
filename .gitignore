@@ -1,4 +1,4 @@
 _extensions
 
-*_files/libs
-*.html
+docs
+/.quarto/

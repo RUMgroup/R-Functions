@@ -1,6 +1,11 @@
+# R Functions
+
+A beginner-friendly introduction to R functions.
+
+Example scripts are provided in the `R` directory.
 
 
-## Rendering
+## Rendering Slides Locally
 
 1. Install [R](https://www.r-project.org/) and [Quarto](https://quarto.org/docs/get-started/).
 
