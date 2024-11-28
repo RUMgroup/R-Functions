@@ -1,7 +1,8 @@
 ---
 title: "R Functions"
-subtitle: "R User Group, University of Manchester"
-author: Martin Herrerias Azcue (ResearchIT, UoM)
+subtitle: "[https://github.com/RUMgroup/R-Functions/](https://github.com/RUMgroup/R-Functions/)"
+institute: "ResearchIT, University of Manchester"
+author: Martin Herrerias Azcue
 date: 2023-11-28
 format:
   revealjs:
