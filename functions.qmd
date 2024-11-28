@@ -335,6 +335,10 @@ Modularity, Collaboration, [Testing](https://r-pkgs.org/testing-basics.html), De
 
 #### Where to go next
 
+- These slides, and example scripts: [https://github.com/RUMgroup/R-Functions/](https://github.com/RUMgroup/R-Functions/)
 - Functions Chapter on [R4DS **1st ed.**](https://r4ds.had.co.nz/functions.html)
 - Functions / Environments in [Advanced R](https://adv-r.hadley.nz/functions.html)
 
+#### Join the R User Group!
+
+RUM space on CADIR (MS Teams): [https://bit.ly/RUserGroup](https://bit.ly/RUserGroup)
